@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+h1{
+    color: rgb(0, 0, 0);
+}
+li{
+    color: black;
+}
+.second{
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
+}
+
+#second-item{
+    color: aliceblue;
+}
+
+img{
+    width: 800px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 10px;
+
+
+}
